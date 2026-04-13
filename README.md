@@ -1,4 +1,4 @@
-# 📘 DOKUMENTASI SISTEM: GERD CARE
+# GERD CARE SYSTEM
 
 Sistem Skrining Penyakit GERD Berbasis Web (MVC PHP Native) Fakultas Kesehatan Masyarakat - Universitas Muslim Indonesia
 
